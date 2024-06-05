@@ -1,0 +1,10 @@
+Каталог Game не был создан
+Каталог Game/src не был создан
+Каталог Game/res не был создан
+Каталог Game/temp не был создан
+Каталог Game/savegames не был создан
+Каталог Game/src/main не был создан
+Каталог Game/src/test не был создан
+Каталог Game/res/drawablesDir не был создан
+Каталог Game/res/vectors не был создан
+Каталог Game/res/icons не был создан
